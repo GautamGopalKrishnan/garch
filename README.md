@@ -1,7 +1,11 @@
 # GARCH
 Mathematical model to predict volatility of stock prices.
 
-Information about GARCH models can be found here in the wiki for this project in this github repository.
+The implementation of GARCH(1,1) model along with prediction of future volatilities and Ljung-Box test can be found in [Volatilities.ipynb](Volatilities.ipynb)
+
+Information about GARCH models are in the wiki for this project in this github repository and can be found here:
+
+[https://github.com/GautamGopalKrishnan/garch/wiki](https://github.com/GautamGopalKrishnan/garch/wiki)
 
 ## Installation
 Install by cloning the repository with
@@ -27,4 +31,6 @@ Historical Data for each of these indices from January, 1990 to August, 2004 is 
 
 - We also calculate the Ljung-Box statistic to show how our GARCH model largely removes autocorrelation and explains the data.
 
-Details about the Ljung-Box are available on the wiki page for this project in this github repository and can be found here: 
+Details about the Ljung-Box test are available on the wiki page for this project in this github repository and can be found here: 
+
+[https://github.com/GautamGopalKrishnan/garch/wiki/Ljung%E2%80%90Box-Test](https://github.com/GautamGopalKrishnan/garch/wiki/Ljung%E2%80%90Box-Test)
