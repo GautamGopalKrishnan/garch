@@ -22,7 +22,7 @@ We use historical data and hyperparameter tuning to implement GARCH(1,1) model f
 - NIFTY Next 50
 - BSE 500
 
-Historical Data for each of these indices from January, 1990 to August, 2004 is publicly available (courtesy of National Stock Exchange of India for indices owned by NSE). They are available on this github repository and have been used to estimate prices in the future.
+Historical Data for each of these indices from January, 1990 to August, 2024 is publicly available (courtesy of National Stock Exchange of India for indices owned by NSE). They are available on this github repository and have been used to estimate prices in the future.
 
 ## Testing and predictions
 - We can use our implementation of the GARCH(1,1) model to predict the future volatilities and we demonstrate it for NIFTY 50.
